@@ -13,28 +13,28 @@ This project analyzes Transportation Security Administration (TSA) passenger com
 5. Provide recommendations for operational improvements
 
 ### Tools and Technologies - 
-1.Python
-2.Pandas
-3.NumPy
-4.Matplotlib
-5.Plotly
-6.Power BI
-7.Jupyter Notebook
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Plotly
+6. Power BI
+7. Jupyter Notebook
 
 ### Skills Demonstrated - 
-1.Data Cleaning
-2.Exploratory Data Analysis
-3.Data Visualization
-4.Geographic Analysis
-5.Dashboard Development
-6.Business Storytelling
+1. Data Cleaning
+2. Exploratory Data Analysis
+3. Data Visualization
+4. Geographic Analysis
+5. Dashboard Development
+6. Business Storytelling
 
 ### Repository Contents - 
 1. Data preprocessing notebooks
-2.Visualization notebooks
-3.Dashboard screenshots
-4.Final presentation
-5.Documentation
+2. Visualization notebooks
+3. Dashboard screenshots
+4. Final presentation
+5. Documentation
 
 ### Key Results
 The analysis identified airports and complaint categories generating the greatest passenger dissatisfaction. Geographic visualizations highlighted regional patterns, while trend analysis identified recurring operational issues that can guide staffing and service improvement initiatives.
@@ -75,5 +75,3 @@ This project demonstrates how Large Language Models can automate document proces
 
 ### Key Results - 
 The project successfully demonstrates how generative AI can automate invoice processing by converting unstructured business documents into structured machine-readable data. The workflow illustrates a practical enterprise use case for integrating large language models into business processes.
-
-:::
