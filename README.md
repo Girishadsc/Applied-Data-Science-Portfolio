@@ -1,78 +1,80 @@
 # Applied Data Science Portfolio
 
-Welcome to my Applied Data Science Portfolio!
+This repository contains my Applied Data Science portfolio, including academic projects, case studies, and hands-on implementations in data analytics, machine learning, and generative AI.
 
-This repository contains my coursework, projects, and assignments completed as part of my Applied Data Science and Artificial Intelligence program. Each project demonstrates practical skills in data analysis, machine learning, visualization, prompt engineering, and generative AI.
-
----
-
-## About Me
-
-I am passionate about using data to solve real-world business problems. My work focuses on:
-
-- Data Analysis
-- Machine Learning
-- Data Visualization
-- Python Programming
-- SQL
-- Prompt Engineering
-- Generative AI
-- Business Analytics
+Each folder represents a standalone project with its own documentation, notebooks, and supporting materials.
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```
-Applied-Data-Science-Portfolio
+Applied-Data-Science-Portfolio/
 │
-├── Portfolio-Milestones
-├── Machine-Learning
-├── Data-Visualization
-├── Prompt-Engineering
-├── NLP
-└── Images
+├── TSA-Complaint-Analysis/
+├── Invoice-Extraction-OpenAI/
+├── Childcare-Pricing-Analysis/
 ```
 
 ---
 
-## Projects
+## 📊 Projects Overview
 
-### Portfolio Milestones
-Course milestones, reports, presentations, and supporting documentation.
+### 1. TSA Complaint Analysis
+Analysis of TSA complaint data to identify trends, patterns, and operational issues across U.S. airports.
 
-### Machine Learning
-Python notebooks and machine learning models.
-
-### Data Visualization
-Power BI dashboards, Tableau projects, and visualization examples.
-
-### Prompt Engineering
-Examples of prompt engineering techniques using Large Language Models (LLMs).
-
-### Natural Language Processing (NLP)
-Projects involving text analytics and language models.
+**Key Focus:**
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Visualization of complaint trends
+- Identification of high-frustration airports
 
 ---
 
-## Technologies
+### 2. Invoice Extraction using OpenAI
+A generative AI project that extracts structured JSON data from unstructured invoice text using prompt engineering.
+
+**Key Focus:**
+- Prompt engineering for structured output
+- JSON extraction from text
+- API-based automation workflow
+- Error handling and validation
+
+---
+
+### 3. Childcare Pricing Analysis
+A data-driven analysis of childcare pricing patterns and affordability trends.
+
+**Key Focus:**
+- Pricing pattern analysis
+- Regional comparisons
+- Data visualization
+- Business insights for decision-making
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+- Pandas / NumPy
+- Matplotlib / Seaborn
 - Jupyter Notebook
-- SQL
-- Power BI
-- Tableau
-- Git
-- GitHub
+- OpenAI API
+- Git & GitHub
+- Data Visualization tools
 
 ---
 
-## Contact
+## 🎯 Purpose of This Portfolio
+
+The goal of this portfolio is to demonstrate:
+- Real-world data analysis skills
+- Ability to clean and interpret datasets
+- Use of generative AI for structured extraction tasks
+- Strong storytelling through data visualization
+
+---
+
+## 👤 Author
 
 **GitHub:** https://github.com/Girishadsc
-
-Thank you for visiting my portfolio!
